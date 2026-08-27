@@ -1,6 +1,6 @@
 This is a basic repository used for maintaining copy links to Google forms surveys for a project entitled genAI Literacy in Gateway Mathematics Courses. The links are below.
 
-COLLEGE ALGEBRA:  
+**COLLEGE ALGEBRA:**  
 3.1.1 -- https://docs.google.com/forms/d/10eqTm-a73FszyKzTGimTjr-l4X2r6mThR3gAxMkyTls/copy. 
 
 3.1.2 -- https://docs.google.com/forms/d/168BJv-RlYHrF8r9G33yIpQr6Cepd13tYsUD_KJu24Fw/copy. 
@@ -8,7 +8,7 @@ COLLEGE ALGEBRA:
 3.1.3 -- https://docs.google.com/forms/d/1wbr-ABSsLydMrwG76MypsR2QvsdbjW1Vc9uMXaSQCu0/copy. 
 
   
-CALCULUS 1:  
+**CALCULUS 1:**  
 3.2.1 -- https://docs.google.com/forms/d/1O7W10X3AcEia0A1Z-cpVLogAMvbdBR1QxrPFy-s34Dw/copy. 
 
 3.2.2 -- https://docs.google.com/forms/d/1CrwG2UOMdMHCFOsvrnyGVzMCinOaKmGw7j9TlTMmiSA/copy.  
@@ -32,7 +32,7 @@ CALCULUS 1:
 3.2.11 -- https://docs.google.com/forms/d/1xy-NioD1_7Rcmt36U4YkRIX1xtssSuHGi_KHRSDh7iU/copy. 
 
   
-CALCULUS 2:  
+**CALCULUS 2:**  
 3.3.1 -- https://docs.google.com/forms/d/1DmM_ezuPDcPBj8EGPifGcJcDIxmYMiQtm81tu7ECEqw/copy. 
 
 3.3.2 -- https://docs.google.com/forms/d/1yq_lnPAxDjqxBITjfbdDx3bqfLqV6E9cgwHJC55NbnY/copy. 
