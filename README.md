@@ -43,7 +43,7 @@ This is a basic repository used for maintaining copy links to Google forms surve
 
 3.3.5 -- https://docs.google.com/forms/d/1zPkGnUiUIymkGq_wRoElSCKATUgF-GXI7o7hFEGO22U/copy. 
   
-If any of these link locations is broken, please contact jusimons@ucsc.edu.
+If any of these links is broken, please contact jusimons@ucsc.edu.
 
 **Funding note:** This project was funded by the California Education Learning Lab AI Fast Challenge Grant, Addressing Generative AI Literacy Gaps in Gateway Writing and Mathematics (#00010425). 
 
