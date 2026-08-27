@@ -45,3 +45,7 @@ CALCULUS 2:
   
 If any of these link locations is broken, please contact jusimons@ucsc.edu.
 
+**Funding note:** This project was funded by the California Education Learning Lab AI Fast Challenge Grant, Addressing Generative AI Literacy Gaps in Gateway Writing and Mathematics (#00010425). 
+
+
+
