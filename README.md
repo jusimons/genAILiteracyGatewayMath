@@ -1,4 +1,10 @@
-This is a basic repository used to copy Google forms surveys for a project entitled genAI Literacy in Gateway Mathematics Courses. This works through [script.google.com](script.google.com) and requires a Google account. For each survey, do the following:
+# Welcome to the genAI Literacy in Gateway Mathematics Survey Repository!
+
+This is a basic repository used to copy Google forms surveys for a project entitled genAI Literacy in Gateway Mathematics Courses. This works through [script.google.com](script.google.com) and requires a Google account. 
+
+## Instructions for Creating Your Own Google Form Surveys:
+
+For each survey, do the following:
 
 1. Find the specific survey file you wish to copy by finding it's associated number (e.g. 3_1_2). These should be visible to the left of this panel.
 2. Open the .js file in this respository with that number (e.g. 3_1_2.js).
@@ -9,6 +15,8 @@ This is a basic repository used to copy Google forms surveys for a project entit
 7. Click Run.
 8. Grant permission if prompted.
 9. Your Google Drive will now contain a copy of the survey!
+
+## Survey Numbers and Topics, By Course
 
 For your reference, numbers and topics are listed below. 
 
@@ -54,10 +62,12 @@ For your reference, numbers and topics are listed below.
 3.3.4 -- Integration by Parts
 
 3.3.5 -- Work Integrals
-  
+
+## Questions
 If you have any questions, please contact jusimons@ucsc.edu.
 
-**Funding note:** This project was funded by the California Education Learning Lab AI Fast Challenge Grant, Addressing Generative AI Literacy Gaps in Gateway Writing and Mathematics (#00010425). 
+### Acknowledgements
+**Funding note:** This project was funded by the California Education Learning Lab AI Fast Challenge Grant, Addressing Generative AI Literacy Gaps in Gateway Writing and Mathematics (#00010425). The resources here are designed to align with its associate LibreText.
 
 
 
