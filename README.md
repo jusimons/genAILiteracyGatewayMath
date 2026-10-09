@@ -1,7 +1,7 @@
 This is a basic repository used to copy Google forms surveys for a project entitled genAI Literacy in Gateway Mathematics Courses. This works through script.google.com. For each survey, do the following:
 
 1. Find the specific survey file you wish to copy by finding it's associated number (e.g. 3_1_2).
-2. Open the .js file in this folder with that number (e.g. 3_1_2.js).
+2. Open the .js file in this respository with that number (e.g. 3_1_2.js).
 3. Copy the entire script in that file.
 4. Go to script.google.com and click New Project. Note: you will need a google account to do this.
 5. Erase any default code in the editor (Code.gs) and paste the entire script block below.
