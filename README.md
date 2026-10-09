@@ -1,4 +1,13 @@
-This is a basic repository used for maintaining copy links to Google forms surveys for a project entitled genAI Literacy in Gateway Mathematics Courses. The links are below.
+This is a basic repository used to copy Google forms surveys for a project entitled genAI Literacy in Gateway Mathematics Courses. This works through script.google.com. For each survey, do the following:
+
+1. Find the specific survey file you wish to copy towards bottom of this page and click the link.
+2. Copy the entire script in that file.
+3. Go to script.google.com and click New Project. Note: you will need a google account to do this.
+4. Erase any default code in the editor (Code.gs) and paste the entire script block below.
+5. Click the Save icon (diskette) or press Ctrl + S.
+6. Click Run.
+7. Grant permission if prompted.
+8. Your Google Drive will now contain a copy of the survey!
 
 **COLLEGE ALGEBRA:**  
 3.1.1 -- https://docs.google.com/forms/d/10eqTm-a73FszyKzTGimTjr-l4X2r6mThR3gAxMkyTls/copy. 
