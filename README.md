@@ -20,7 +20,7 @@ For each survey, do the following:
 
 For your reference, numbers and topics are listed below. 
 
-**COLLEGE ALGEBRA:**  
+###COLLEGE ALGEBRA:
 3.1.1 -- General Problem Solving
 
 3.1.2 -- Linear vs. Exponential Functions 
