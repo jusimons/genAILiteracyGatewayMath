@@ -28,7 +28,7 @@ For your reference, numbers and topics are listed below.
 3.1.3 -- Inverse Functions
 
   
-**CALCULUS 1:**  
+### CALCULUS 1:  
 3.2.1 -- Piecewise Functions and Intro to Textbook 
 
 3.2.2 -- Definition of Derivative 
@@ -52,7 +52,7 @@ For your reference, numbers and topics are listed below.
 3.2.11 -- Final Review Survey
 
   
-**CALCULUS 2:**  
+### CALCULUS 2:
 3.3.1 -- Partial Fraction Decomposition + Intro to Textbook
 
 3.3.2 -- Definite Integrals
