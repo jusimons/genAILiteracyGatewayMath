@@ -6,7 +6,7 @@ This is a basic repository used to copy Google forms surveys for a project entit
 
 For each survey, do the following:
 
-1. Find the specific survey file you wish to copy by finding it's associated number (e.g. 3_1_2). These should be visible to the left of this panel.
+1. Find the specific survey file you wish to copy by finding it's associated number (e.g. 3_1_2) in this repository. These should be visible to the left of this panel or in the main folder where this README file is located.
 2. Open the .js file in this respository with that number (e.g. 3_1_2.js).
 3. Copy the entire script in that file.
 4. Go to [script.google.com](script.google.com) and click New Project. 
