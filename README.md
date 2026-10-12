@@ -53,7 +53,7 @@ For your reference, numbers and topics are listed below.
 
   
 **CALCULUS 2:**  
-3.3.1 -- Partial Fraction Decomposition + Intro to \Textbook
+3.3.1 -- Partial Fraction Decomposition + Intro to Textbook
 
 3.3.2 -- Definite Integrals
 
